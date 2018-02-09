@@ -1,12 +1,5 @@
-//
-//  ViewController.swift
-//  Realm-Demo
-//
-//  Created by Steven Prichard on 2018-02-09.
-//  Copyright © 2018 Steven Prichard. All rights reserved.
-//
-
 import UIKit
+import Person
 
 class ViewController: UIViewController {
 
